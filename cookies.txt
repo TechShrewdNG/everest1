@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+unbouncepages.com	TRUE	/everest-production-integrated-company-li/	FALSE	1999999999	ubpv	a%2C4744818b-0d8c-42fc-bd4f-3f46e7ef668a
+unbouncepages.com	TRUE	/everest-production-integrated-company-li/	FALSE	1999999999	ubrs	weighted
+unbouncepages.com	TRUE	/	FALSE	1999999999	ubvs	197.210.84.1591588349638024429
+unbouncepages.com	TRUE	/	FALSE	1999999999	ubvt	197.210.84.1591588349638024429
+
